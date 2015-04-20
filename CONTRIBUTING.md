@@ -42,7 +42,7 @@ We want to keep our commit histories clean where possible.
 - Make sure you have added the necessary tests for your changes.
 
 ### Javascript Styleguide
-- Please follow the rules contained in [Flexberry/javascript-style-guide](https://github.com/Flexberry/javascript-style-guide).
+- Please follow the rules contained in [Flexberry/javascript-style-guide](https://github.com/Flexberry/javascript-style-guide). These rules are partially covered with the `.jshintrc` file in a repository root.
 - All public API methods must be documented with [jsdoc](http://usejsdoc.org).
 
 ### CSharp Styleguide
