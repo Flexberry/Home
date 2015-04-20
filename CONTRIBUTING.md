@@ -1,4 +1,7 @@
 # How to contribute
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+
+The following is a set of guidelines for contributing to the Flexberry projects, which are hosted in the [Flexberry Organization](https://github.com/Flexberry) on GitHub. Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
 ## GIT
 
