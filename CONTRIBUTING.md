@@ -27,7 +27,7 @@ According to [Pro Git: Chapter 5.2](http://progit.org/book/ch5-2.html#Commit-Gui
       single space, with blank lines in between, but conventions vary here
 
 ### Branching
-We want to keep our commit histories clean where possible. 
-- master / dev / feature-<name> / hotfixex / release-<version> for branches.
+We want to keep our commit histories clean where possible.
+- master / develop / feature-<name> / hotfixes / release-<version> for branches.
 - merging with `--no-ff` option;
 - remember about `git rebase`;
