@@ -5,7 +5,7 @@ The following is a set of guidelines for contributing to the Flexberry projects,
 
 ## GIT
 
-### Message Format
+### Commit Message Format
 There are a few basic rules that makes Git commit messages more readable on the terminal and GitHub. The most important rule is use the first line as a summary and to keep it short.
 
 According to [Pro Git: Chapter 5.2](http://progit.org/book/ch5-2.html#Commit-Guidelines) we use this template:
@@ -31,3 +31,19 @@ We want to keep our commit histories clean where possible.
 - master / develop / feature-<name> / hotfixes / release-<version> for branches.
 - merging with `--no-ff` option;
 - remember about `git rebase`;
+
+## Pull Requests
+- When you send a pull request, please send it to the `develop` branch.
+- Give a short description in the pull request what you're doing and why.
+
+## Coding Guidelines
+- Try to [stick](http://thecodelesscode.com/case/94) to the existing coding style.
+- Use `.editorconfig` file to ensure consistent line-endings, tabs/spaces, etc., if it provided with the repository (see [EditorConfig](http://editorconfig.org) for details).
+- Make sure you have added the necessary tests for your changes.
+
+### Javascript Styleguide
+- Please follow the rules contained in [Flexberry/javascript-style-guide](https://github.com/Flexberry/javascript-style-guide).
+- All public API methods must be documented with [jsdoc](http://usejsdoc.org).
+
+### CSharp Styleguide
+- Make sure your changes comply to our [StyleCop](https://stylecop.codeplex.com) rules, which are defined in the Settings.Stylecop file in a repository root.
