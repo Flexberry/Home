@@ -36,6 +36,11 @@ We want to keep our commit histories clean where possible.
 - When you send a pull request, please send it to the `develop` branch.
 - Give a short description in the pull request what you're doing and why.
 
+## Code Review
+From the beginning, we want to maintain very high level of code quality in our projects. That's why we use [Atlassian Crucible](https://www.atlassian.com/software/crucible) for reviewing our code.
+
+Feel free to [participate](http://cr.flexberry.net/)!
+
 ## Coding Guidelines
 - Try to [stick](http://thecodelesscode.com/case/94) to the existing coding style.
 - Use `.editorconfig` file to ensure consistent line-endings, tabs/spaces, etc., if it provided with the repository (see [EditorConfig](http://editorconfig.org) for details).
