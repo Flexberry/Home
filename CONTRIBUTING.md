@@ -26,6 +26,9 @@ According to [Pro Git: Chapter 5.2](http://progit.org/book/ch5-2.html#Commit-Gui
     - Typically a hyphen or asterisk is used for the bullet, preceded by a
       single space, with blank lines in between, but conventions vary here
 
+- Write the summary line in the imperative present tense: "Fix", "Add" instead of "Fixed", "Added" or "Adding".
+- Don't end the summary line with a period - it's a title and titles don't end with a period.
+
 ### Branching
 We want to keep our commit histories clean where possible.
 - master / develop / feature-<name> / hotfixes / release-<version> for branches.
