@@ -51,7 +51,7 @@ Feel free to [participate](http://cr.flexberry.net/)!
 
 ### Javascript Styleguide
 - Please follow the rules contained in [Flexberry/javascript-style-guide](https://github.com/Flexberry/javascript-style-guide). These rules are partially covered with the `.jshintrc` file in a repository root.
-- All public API methods must be documented with [jsdoc](http://usejsdoc.org).
+- All public API methods must be documented with [jsdoc](http://usejsdoc.org) or [YUIDoc](http://yui.github.io/yuidoc/) (for projects powered by ember.js).
 
 ### CSharp Styleguide
 - Make sure your changes comply to our [StyleCop](https://stylecop.codeplex.com) rules, which are defined in the Settings.Stylecop file in a repository root.
